@@ -8,3 +8,16 @@
 /Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
 /Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
 /Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache

@@ -6531,23 +6531,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/kevinbrack/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/lordnikon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+      "projectUniqueName": "/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/test/GradeBook.Tests/GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
-      "packagesPath": "/Users/kevinbrack/.nuget/packages/",
-      "outputPath": "/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/test/GradeBook.Tests/obj/",
+      "projectPath": "/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/test/GradeBook.Tests/GradeBook.Tests.csproj",
+      "packagesPath": "/home/lordnikon/.nuget/packages/",
+      "outputPath": "/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/test/GradeBook.Tests/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/kevinbrack/.nuget/NuGet/NuGet.Config"
+        "/home/lordnikon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6558,8 +6554,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/GradeBook.csproj": {
-              "projectPath": "/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/GradeBook.csproj"
+            "/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/GradeBook.csproj": {
+              "projectPath": "/home/lordnikon/Documents/programming/001_classes/002_pluralsight/001_c-sharp-fundamentals/c-sharp-fundamentals/src/GradeBook/GradeBook.csproj"
             }
           }
         }
@@ -6605,7 +6601,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
       }
     }
   }
