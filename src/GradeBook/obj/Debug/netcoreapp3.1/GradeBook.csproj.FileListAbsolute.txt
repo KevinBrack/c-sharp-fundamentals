@@ -1,0 +1,10 @@
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/Users/kevinbrack/Documents/programming/001_classes/008_pluralisght/011_c-sharp-fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
